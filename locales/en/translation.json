@@ -1,0 +1,53 @@
+{
+  "PageTitle": {
+    "aboutme": "About Me",
+    "smmspace": "SMM Space",
+    "education": "Education",
+    "contact": "Contacts",
+    "publicOffer": "Public Offer",
+    "termsOfUse": "Terms of Use",
+    "privacyPolicy": "Privacy Policy"
+  },
+
+  "EducationPage_MainBanner": {
+    "t1": "Cool Stories in Instagram",
+    "t2": "Spicy and Riveting posts in Facebook",
+    "t3": "Telegram Bot, and what it can do"
+  },
+  
+  "EducationPage_PS2": {
+    "WhoForST": "Who is it for?",
+    "WhoFor1t": "For those who want to change jobs",
+    "WhoFor1c": "If you are now on the verge of change and have heard that SMM is a promising area worth getting acquainted with",
+    "WhoFor2t": "For those who want to learn additional skills",
+    "WhoFor2c": "If you write texts or do design, but want to be able to do more to expand your competencies",
+    "WhoFor3t": "For those who want to work remotely",
+    "WhoFor3c": "if you are looking for ways to switch to remote work and think about a career in the digital",
+    "BenefitST": "Who will benefit from the SMM course?",
+    "Benefit1t": "Entrepreneurs",
+    "Benefit1c": "You will learn how to analyze competitors' activities and strategies, develop an effective strategy and occupy your niche by promoting business in social networks",
+    "Benefit2t": "Startups",
+    "Benefit2c": "You have an idea or project and want to learn how to quickly identify your target audience, test feedback, create competitive offers and find new niches for your product in social networks",
+    "Benefit3t": "Beginner SMM spec.",
+    "Benefit3c": "You are active, you like to create content, spend time in social networks, cooperate with different businesses, you would like to work in a free schedule from anywhere in the world", 
+    "Benefit4t": "Marketers",
+    "Benefit4c": "You need a large-scale presence in social networks, a powerful competitive strategy and sales. Do you want to control KPIs and monitor the effectiveness of contractors",
+    "AboutST": "You'll learn about:",
+    "About1t": "Develop an SMM strategy",
+    "About1c": "determine the target audience, describe the detailed Client Avatar, analyze and evaluate competitors",
+    "About2t": "Create a WOW Content:",
+    "About2c": "Identify the types and types of content necessary for the high-quality presentation of products and services to the target audience, set tasks for its creation, independently create and develop communities",
+    "About3t": "Targeting",
+    "About3c": "Яqualitatively configure and target advertising on Facebook and Instagram, achieve maximum conversion rates and minimize budgets",
+    "About4t": "SMM-Mix, chatbots, car funnels:",
+    "About4c": "understand all types of promotion in social networks, combine different channels, configure chats and auto funnels, communicate in messengers, build relationships with influencers",
+    "About5t": "Analytics and optimization",
+    "About5c": "analyze the results of work, draw conclusions about the necessary changes in strategy, work with the Facebook Business Account, Google Analytics and other services"
+  },
+
+  "ContactPage_1": {
+    "s1t1": "Do u wanna to ask smth?",
+    "s1t2": "You can write me by",
+    "s2t1": "You can also follow me"
+  }
+}
